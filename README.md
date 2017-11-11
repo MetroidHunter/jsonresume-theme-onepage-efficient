@@ -10,9 +10,11 @@ A compact theme for JSON Resume, designed for printing.
 
 Tries to fit as much information as possible onto a single page without making sections look cluttered.
 
+Original repo: https://github.com/ainsleyc/jsonresume-theme-onepage
+
 ## Example
 
-https://registry.jsonresume.org/onepage-efficient
+http://themes.jsonresume.org/theme/onepage-efficient
 
 ## Running
 
