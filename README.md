@@ -12,7 +12,7 @@ Tries to fit as much information as possible onto a single page without making s
 
 ## Example
 
-http://themes.jsonresume.org/theme/onepage
+https://registry.jsonresume.org/onepage-efficient
 
 ## Running
 
