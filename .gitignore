@@ -1,0 +1,10 @@
+node_modules/
+*.zip
+npm-debug.log
+package-lock.json
+OnePageTheme/
+resume.html
+resume.pdf
+resume.json
+public/
+.DS_Store
