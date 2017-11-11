@@ -1,4 +1,4 @@
-# jsonresume-theme-onepage
+# jsonresume-theme-onepage-efficient
 
 Originally by Ainsley Chong, Ive modified this to provide a few more helpful things:
 * Grouping jobs by company
@@ -20,7 +20,6 @@ http://themes.jsonresume.org/theme/onepage
 sudo npm install -g resume-cli
 git clone https://github.com/MetroidHunter/jsonresume-theme-onepage-efficient.git
 cd jsonresume-theme-onepage-efficient
-//Move your resume.json into the folder
 resume serve
 ```
 You can print directly from the served html.
